@@ -1,1 +1,5 @@
 desktop.ini
+
+# 版权教材扫描件，不入库
+Learning/Japanese/*.pdf
+*.pdf
